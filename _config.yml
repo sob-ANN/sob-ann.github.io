@@ -21,13 +21,13 @@ repository               : "sob-ann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/img_headshot.png"
   name             : "Soban Nasir Lone"
   pronouns         : # example: "she/her"  
   bio              : "Scientific ML for Civil Engineering"
   location         : "Srinagar, Kashmir"
   employer         : "Indian Institute of Technology, Delhi"
-  uri              : "https://sob-ann.github.io"# URL
+  uri              : #"https://sob-ann.github.io"# URL
   email            : "sobanlone.iitd@gmail.com" 
 
   # Academic websites
