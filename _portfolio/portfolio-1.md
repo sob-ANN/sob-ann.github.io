@@ -1,10 +1,10 @@
----
+<!-- ---
 title: "Projects"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-<!-- 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+<!--  -->
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  --> 
 
 ## My Portfolio
 
@@ -153,8 +153,5 @@ Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/
 
 ---
 
-## Contact
 
-If you have any questions or would like to get in touch, feel free to reach out to me at [sobanlone88@gmail.com](mailto:sobanlone88@gmail.com) or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) SobanLone](https://www.linkedin.com/in/sobanlone/)
-&nbsp;
 
