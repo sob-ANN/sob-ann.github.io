@@ -12,8 +12,8 @@ main:
   # - title: "Extracurriculars"
   #   url: /extracurriculars/
 
-  - title: "Extracurriculars"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
