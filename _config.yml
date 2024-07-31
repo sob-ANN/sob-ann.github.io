@@ -21,7 +21,7 @@ repository               : "sob-ann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/img_headshot.png"
+  avatar           : "images/img_headshot.png"
   name             : "Soban Nasir Lone"
   pronouns         : # example: "she/her"  
   bio              : "Scientific ML for Civil Engineering"
