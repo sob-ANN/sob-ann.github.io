@@ -5,9 +5,12 @@ main:
     # url: /cv/
     url: /files/CV.pdf
 
-    
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Extracurriculars"
+    url: /extracurriculars/
 
   # - title: "Talks"
   #   url: /talks/    
