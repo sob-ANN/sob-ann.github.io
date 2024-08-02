@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Uncertaintu Quantification in Deep Learning](/images/UQ.png){: .align-right width="300px"}
+![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-right width="400px"}
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
-<h3 align="center"> I research AI applications in engineering</h3>
+<h3 align="left"> I research AI applications in engineering</h3>
 
 
 - 👨‍🎓 Masters student at **IIT, Delhi**
 
-- 🔭 I’m currently working on **Constitutive soil modelling**
+- 🔭 Currently working on **Constitutive soil modelling**
 
-- 🌱 I’m currently learning **Graph neural networks**
+- 🌱 Trying to learning **Graph neural networks**
 
-- 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification**
+- 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
 
 - ⚡ Fun fact **I enjoy analysing football tactics**
 
