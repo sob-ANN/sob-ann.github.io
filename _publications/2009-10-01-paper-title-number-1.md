@@ -27,6 +27,6 @@ for specific problems. We apply this approach to a range of mechanics problems, 
 pendulum, advection-diffusion, and diffusion-reaction systems. Our findings underscore the potential
 of α-VI DeepONet to advance the field of data-driven operator learning and its applications in
 engineering and scientific domains. 
-![NMSE]("x9.png)"
-![NLL]("images/x10.png")
+![NMSE](x9.png)
+![NLL](x10.png)
 
