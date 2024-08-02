@@ -19,14 +19,14 @@ Rényi’s α-divergence, instead of the Kullback-Leibler divergence (KLD), comm
 variational inference, mitigates issues related to prior misspecification that are prevalent in Variational
 Bayesian DeepONets. This approach offers enhanced flexibility and robustness. We demonstrate
 that modifying the variational objective function yields superior results in terms of minimising the
-mean squared error and improving the negative log-likelihood on the test set. Our framework’s
+mean squared error (NMSE) and improving the negative log-likelihood (NLL) on the test set. Our framework’s
 efficacy is validated across various mechanical systems, where it outperforms both deterministic
 and standard KLD-based VI DeepONets in predictive accuracy and uncertainty quantification. The
 hyperparameter α, which controls the degree of robustness, can be tuned to optimise performance
 for specific problems. We apply this approach to a range of mechanics problems, including gravity
 pendulum, advection-diffusion, and diffusion-reaction systems. Our findings underscore the potential
 of α-VI DeepONet to advance the field of data-driven operator learning and its applications in
-engineering and scientific domains. 
+engineering and scientific domains. The improvement on the two key metrics - NMSE and NLL by using this approach can be visualised below.
 ![NMSE](x9.png)
 ![NLL](x10.png)
 
