@@ -9,7 +9,7 @@ redirect_from:
 ![Uncertaintu Quantification in Deep Learning](/images/UQ.png){: .align-right width="300px"}
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
-<h3 align="center">A researcher working on AI applications in engineering</h3>
+<h3 align="center"> I research AI applications in engineering</h3>
 
 
 - 👨‍🎓 Masters student at **IIT, Delhi**
