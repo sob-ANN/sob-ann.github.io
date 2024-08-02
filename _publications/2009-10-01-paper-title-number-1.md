@@ -27,6 +27,6 @@ for specific problems. We apply this approach to a range of mechanics problems, 
 pendulum, advection-diffusion, and diffusion-reaction systems. Our findings underscore the potential
 of α-VI DeepONet to advance the field of data-driven operator learning and its applications in
 engineering and scientific domains. The improvement on the two key metrics - NMSE and NLL by using this approach can be visualised below.
-![NMSE](x9.png)
-![NLL](x10.png)
+![NMSE]("x9.png")
+![NLL]("x10.png")
 
