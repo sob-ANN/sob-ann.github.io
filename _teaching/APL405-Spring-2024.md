@@ -2,7 +2,7 @@
 title: "Teaching assistant for the course Machine Learning for Mechanics"
 collection: teaching
 type: "Undergraduate course (APL405)"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/APL405-Spring-2024
 venue: "Indian Institute of Technology, Delhi"
 date: "Jan 2024 - May 2024"
 location: "New Delhi, India"

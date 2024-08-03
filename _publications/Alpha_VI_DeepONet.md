@@ -1,7 +1,7 @@
 ---
 title: "Alpha-VI DeepONet"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Alpha_VI_DeepONet
 excerpt: 'We introduce a novel deep operator network (DeepONet) framework that incorporates generalised
         variational inference (GVI) using Rényi’s α-divergence to learn complex operators while quantifying
         uncertainty. We apply this approach to a range of mechanics problems, including gravity
