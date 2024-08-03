@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-center width="400px"}
+
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
-<h3 align="left"> I research AI applications in engineering</h3>
-
+<h3 align="left"> I research AI applications in engineering (with uncertainty)</h3>
+![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-left width="400px"}
 
 - 👨‍🎓 Masters student at **IIT, Delhi**
 
