@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant for other courses"
 collection: teaching
-type: "Workshop"
+# type: "T"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology, Delhi"
+date: "Aug 2022 - Dec 2023"
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The courses for which I was the teaching assistant throughout my time at the Indian Institute of Technology, Delhi are as:
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+| Course                                 | Code    | Semester    |
+|----------------------------------------|---------|-------------|
+| Engineering Mechanics                  | APL100  | Fall 2022   |
+| Finite Element Methods                 | AML706  | Spring 2023 |
+| Applied Mathematics for Engineers      | APL101  | Fall 2023   |

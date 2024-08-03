@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant for the course Machine Learning for Mechanics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (APL405)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology, Delhi"
+date: "Jan 2024 - May 2024"
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+#[Machine learning for mechanics (APL405)](https://coursesam.github.io/APL405/) is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. My role in this course was to assist with the hands-on sessions and grading of assignments.
