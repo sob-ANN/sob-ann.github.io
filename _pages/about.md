@@ -21,7 +21,7 @@ redirect_from:
 
 - 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
 
-- ⚡ Fun fact **I enjoy analysing football tactics**
+- ⚽ Extracurriculars: **I enjoy playing and analysing football**
 
 - 🔱 Talk to me about anything **Manchester United**
 
