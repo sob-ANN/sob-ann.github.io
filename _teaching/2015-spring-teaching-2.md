@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant for other courses"
 collection: teaching
-# type: "T"
+type: "Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Indian Institute of Technology, Delhi"
 date: "Aug 2022 - Dec 2023"
@@ -9,7 +9,6 @@ location: "New Delhi, India"
 ---
 
 The courses for which I was the teaching assistant throughout my time at the Indian Institute of Technology, Delhi are as:
-
 
 
 | Course                                 | Code    | Semester    |
