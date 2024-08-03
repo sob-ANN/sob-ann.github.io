@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
 <h3 align="left"> I research AI applications in engineering (with uncertainty)</h3>
+
 ![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-left width="400px"}
 
 - 👨‍🎓 Masters student at **IIT, Delhi**
@@ -23,6 +24,7 @@ redirect_from:
 - ⚡ Fun fact **I enjoy analysing football tactics**
 
 - 🔱 Talk to me about anything **Manchester United**
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
