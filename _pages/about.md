@@ -11,7 +11,7 @@ redirect_from:
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
 <h3 align="left"> I research AI applications in engineering (with uncertainty)</h3>
 
-![Uncertainty Quantification in Deep Learning](/images/UQ.png)
+![Uncertainty Quantification in Deep Learning](/images/UQ.png){: width="400px"}
 
 - 👨‍🎓 Masters student at **IIT, Delhi**
 
