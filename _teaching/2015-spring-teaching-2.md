@@ -8,7 +8,7 @@ date: "Aug 2022 - Dec 2023"
 location: "New Delhi, India"
 ---
 
-The courses for which I was the teaching assistant throughout my time at the Indian Institute of Technology, Delhi are as:
+The courses for which I was the teaching assistant throughout my time at the Indian Institute of Technology, Delhi are as given.
 
 
 | Course                                 | Code    | Semester    |
