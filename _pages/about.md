@@ -22,6 +22,8 @@ redirect_from:
 
 - ⚡ Fun fact **I enjoy analysing football tactics**
 
+- 🔱 Talk to me about anything **Manchester United**
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
