@@ -6,7 +6,7 @@ collection: portfolio
 
 Each project has a GitHub link provided along with a short desciprtion.  
 
-- [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
+- [Bayesian Neural Network Implementation](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
   - Implementation of Bayesian neural networks using TensorFlow-probability, modelling both epistemic and aleatoric uncertainties. Variational inference with Bayes by Backprop for training.
 
 - [Variational Auto-Encoder](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Variational%20AutoEncoder%20Tensorflow.ipynb)

@@ -13,5 +13,5 @@ collection: portfolio
 - [Partial Differential Equation](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Partial%20Differential%20Equation%20Solution%2C%20Visualization.ipynb)
   - Solution and visualization of a partial differential equation with Dirichlet boundary conditions.
 
-- [Projectile Motion Using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/%20Projectile%20Motion%20using%20odeint.ipynb)
+- [Projectile Motion using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/%20Projectile%20Motion%20using%20odeint.ipynb)
   - Dynamics of projectile motion using Scipy's 'odeint' library to solve differential equations, simulating the motion of a football with realistic parameters.
