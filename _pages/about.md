@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-right width="300px"}
+![Uncertainty Quantification in Deep Learning](/images/UQ.png){: .align-right width="400px"}
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
 <h3 align="left"> I research AI applications in engineering</h3>
