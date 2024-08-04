@@ -17,7 +17,7 @@ redirect_from:
 
 - 🔭 Currently working on **Constitutive soil modelling**
 
-- 🌱 Trying to learning **Graph neural networks**
+- 🌱 Presently learning about **Graph neural networks**
 
 - 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
 
