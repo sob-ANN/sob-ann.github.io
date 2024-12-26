@@ -9,15 +9,16 @@ redirect_from:
 
 
 <!-- <h1 align="center">Hi 👋, I'm Soban</h1> -->
-<h3 align="left"> I research AI applications in engineering (with uncertainty)</h3>
+<h3 align="left"> I explore uncertainty and explainability in AI to drive innovation in civil engineering and scientific learning.</h3>
 
 ![Uncertainty Quantification in Deep Learning](/images/UQ.png){: width="400px"}
 
-- 👨‍🎓 Masters student at **IIT, Delhi**
+- 👨‍🎓 PhD candidate at **Technical Univeristy of Munich**
+<!-- Masters at **IIT, Delhi** -->
 
-- 🔭 Currently working on **Constitutive soil modelling**
+- 🔭 Currently working on **Graph neural networks for Traffic Predictions**
 
-- 🌱 Presently learning about **Graph neural networks**
+<!-- - 🌱 Presently learning about **Graph neural networks** -->
 
 - 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
 
