@@ -24,9 +24,9 @@ author:
   avatar           : "img_headshot.png"
   name             : "Soban Nasir Lone"
   pronouns         : # example: "she/her"  
-  bio              : "Scientific ML for Civil Engineering"
-  location         : "Srinagar, Kashmir"
-  employer         : "Indian Institute of Technology, Delhi"
+  bio              : "AI for Civil Engineering"
+  location         : "Garching, Munich, Germany"
+  employer         : "Technical University of Munich (TUM)"
   uri              : #"https://sob-ann.github.io"# URL
   email            : "sobanlone.iitd@gmail.com" 
 
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Soban_Lone"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
