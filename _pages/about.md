@@ -13,7 +13,7 @@ redirect_from:
 
 ![Uncertainty Quantification in Deep Learning](/images/UQ.png){: width="400px"}
 
-- 👨‍🎓 PhD candidate at **Technical Univeristy of Munich**
+- 👨‍🎓 PhD candidate at the **Technical Univeristy of Munich**
 <!-- Masters at **IIT, Delhi** -->
 
 - 🔭 Currently working on **Graph neural networks for Traffic Predictions**
