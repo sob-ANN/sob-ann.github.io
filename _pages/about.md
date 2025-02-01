@@ -13,14 +13,14 @@ redirect_from:
 
 ![Uncertainty Quantification in Deep Learning](/images/UQ.png){: width="400px"}
 
-- 👨‍🎓 PhD candidate at the **Technical Univeristy of Munich**
+- 👨‍🎓 PhD candidate at the **Chair of Transporation Systems Engineering, Technical Univeristy of Munich**
 <!-- Masters at **IIT, Delhi** -->
 
-- 🔭 Currently working on **Graph neural networks for Traffic Predictions**
+- 🔭 Currently working on **Graph neural networks for traffic predictions**
 
 <!-- - 🌱 Presently learning about **Graph neural networks** -->
 
-- 💬 Ask me about **Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
+- 💬 Ask me about **Graph neural networks, Bayesian neural networks, variational inference, uncertainty quantification, operator learning**
 
 - ⚽ Extracurriculars: **I enjoy playing and analysing football**
 
