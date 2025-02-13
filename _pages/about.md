@@ -13,7 +13,7 @@ redirect_from:
 
 ![Uncertainty Quantification in Deep Learning](/images/UQ.png){: width="400px"}
 
-- 👨‍🎓 PhD candidate at the **Chair of Transporation Systems Engineering, Technical Univeristy of Munich**
+- 👨‍🎓 PhD candidate at the [**Chair of Transporation Systems Engineering, Technical Univeristy of Munich**](https://www.mos.ed.tum.de/vvs/mitarbeiterinnen/soban-nasir-lone/)
 <!-- Masters at **IIT, Delhi** -->
 
 - 🔭 Currently working on **Graph neural networks for traffic predictions**
