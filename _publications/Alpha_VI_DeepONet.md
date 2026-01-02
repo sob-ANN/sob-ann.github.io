@@ -7,10 +7,10 @@ excerpt: 'We introduce a novel deep operator network (DeepONet) framework that i
         uncertainty. We apply this approach to a range of mechanics problems, including gravity
         pendulum, advection-diffusion, and diffusion-reaction systems.'
 date: 2024-08-01
-venue: 'arXiv preprint'
+venue: 'Computer Methods in Applied Mechanics and Engineering 449 (2026)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/abs/2408.00681'
-citation: 'S. N. Lone, S. De, R. Nayek, Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification, arXiv preprint  arXiv:2408.00681 (2024)'
+paperurl: 'https://doi.org/10.1016/j.cma.2025.118552'
+citation: 'Lone, Soban Nasir, Subhayan De, and Rajdip Nayek. "Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification." Computer Methods in Applied Mechanics and Engineering 449 (2026) 118552. doi: https://doi.org/10.1016/j.cma.2025.118552'
 ---
 
 By incorporating Bayesian neural networks as the building blocks for the branch and
