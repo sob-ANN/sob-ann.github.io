@@ -10,7 +10,7 @@ date: 2024-08-01
 venue: 'Computer Methods in Applied Mechanics and Engineering 449 (2026)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.cma.2025.118552'
-citation: 'Lone, Soban Nasir, Subhayan De, and Rajdip Nayek. "Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification." Computer Methods in Applied Mechanics and Engineering 449 (2026) 118552. doi: [https://doi.org/10.1016/j.cma.2025.118552](https://doi.org/10.1016/j.cma.2025.118552)'
+citation: 'Lone, Soban Nasir, Subhayan De, and Rajdip Nayek. "Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification." Computer Methods in Applied Mechanics and Engineering 449 (2026) 118552. doi: https://doi.org/10.1016/j.cma.2025.118552'
 ---
 
 By incorporating Bayesian neural networks as the building blocks for the branch and
