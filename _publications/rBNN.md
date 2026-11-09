@@ -3,7 +3,7 @@ title: "Recursive Bayesian neural networks"
 collection: publications
 permalink: /publication/rBNN_for_soils
 excerpt: 'This study proposes a recursive Bayesian neural network (rBNN) framework for uncertainty-aware constitutive modelling in  geotechnical engineering, incorporating a sliding window approach to capture temporal dependencies. Validated on numerical and experimental triaxial datasets, the rBNN provides robust confidence intervals, highlighting trade-offs between deterministic and probabilistic models.'
-date: 2024-08-01
+date: 2025-01-17
 venue: 'arXiv preprint'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2501.10088'

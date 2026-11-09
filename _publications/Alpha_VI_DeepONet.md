@@ -6,7 +6,7 @@ excerpt: 'We introduce a novel deep operator network (DeepONet) framework that i
         variational inference (GVI) using Rényi’s α-divergence to learn complex operators while quantifying
         uncertainty. We apply this approach to a range of mechanics problems, including gravity
         pendulum, advection-diffusion, and diffusion-reaction systems.'
-date: 2024-08-01
+date: 2026-02-01
 venue: 'Computer Methods in Applied Mechanics and Engineering 449 (2026)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.cma.2025.118552'
